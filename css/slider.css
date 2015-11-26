@@ -1,5 +1,5 @@
 .wrapper {
-    width: 770px;
+    width: 768px;
     margin: 0px auto;
 }
 
@@ -25,10 +25,10 @@ a {
     color: #666;
 }
 
-a.left {
+.left {
     float: left;
 }
 
-a.right {
+.right {
     float: right;
 }
